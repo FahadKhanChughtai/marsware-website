@@ -1758,3 +1758,7 @@ p.form-message.success, p.form-message.error {
       cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
+/*Here is custom css*/
+.img[src="assets/images/website-logo-500x500.png"] {
+  padding-right: 40%;
+}
